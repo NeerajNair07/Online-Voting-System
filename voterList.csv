@@ -1,0 +1,6 @@
+,voter_id,Name,Gender,Zone,City,Passw,hasVoted
+0,10001,Anitej,Male,UP,Kanpur,abcd,1
+1,10002,Dhruvi,Female,GJ,Surat,abcd,0
+2,10003,Prem,Male,WB,Siliguri,abcd,0
+3,10004,Aryan,Male,KA,Bengaluru,abcd,0
+4,10005,Satvik,Male,NCR,Delhi,abcd,0
